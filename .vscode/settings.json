@@ -1,0 +1,5 @@
+{
+    "solidity.defaultCompiler": "localNodeModule",
+    "solidity.compileUsingRemoteVersion": "latest",
+    "solidity.compileUsingLocalVersion": "c:\\Users\\ahmed\\Documents\\Projects\\Web3\\LearnWeb3.io\\soljson-v0.8.12+commit.f00d7308.js"
+}
